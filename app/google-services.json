@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "743726281597",
+    "firebase_url": "https://smart-meterfirebase.firebaseio.com",
+    "project_id": "smart-meterfirebase",
+    "storage_bucket": "smart-meterfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743726281597:android:c853cfe9f3e7d3ee",
+        "android_client_info": {
+          "package_name": "com.example.waqarsahi.servertest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743726281597-5jgn1tc7uhg5juv7n67k16j81ccg8akr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.waqarsahi.servertest",
+            "certificate_hash": "f325a775be2887581ef15a5eb33ea8402564b4dd"
+          }
+        },
+        {
+          "client_id": "743726281597-rj3nnc8966u57k7j2pbqqgd9deefdle9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Iir0Q2Y-JDKJXjgc0ygybsVZJJ4TzIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743726281597-rj3nnc8966u57k7j2pbqqgd9deefdle9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
